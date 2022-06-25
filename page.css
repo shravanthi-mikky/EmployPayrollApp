@@ -140,3 +140,14 @@ margin-left: 20px;
 .salary{
     width: 50vh;
 }
+select{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+    font: normal;
+    letter-spacing: 0px;
+    color: #42515f;
+    background-color: transparent;
+    margin-left: 60px;
+}
